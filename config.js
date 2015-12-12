@@ -11,7 +11,7 @@ config = {
     // When running Ghost in the wild, use the production environment.
     // Configure your URL and mail settings here
     production: {
-        url: 'http://ghost2.wx.jaeapp.com',
+        url: 'http://localhost',
         mail: {},
         database: {
             client: 'sqlite3',
